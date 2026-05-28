@@ -1,0 +1,32 @@
+aid: ayrshare
+name: Ayrshare
+description: "Social media APIs to post, get analytics, and manage multiple users social media accounts"
+url: https://www.ayrshare.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Social"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Social
+  - Public APIs
+apis:
+  - name: Ayrshare
+    description: "Social media APIs to post, get analytics, and manage multiple users social media accounts"
+    humanURL: https://www.ayrshare.com
+    baseURL: https://www.ayrshare.com
+    tags:
+      - Social
+    properties:
+      - type: Documentation
+        url: https://www.ayrshare.com
+common:
+  - type: Website
+    url: https://www.ayrshare.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
