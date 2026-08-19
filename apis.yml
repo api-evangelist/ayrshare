@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ayrshare.p
 name: Ayrshare
 description: "Social media APIs to post, get analytics, and manage multiple users social media accounts"
 url: https://www.ayrshare.com
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
