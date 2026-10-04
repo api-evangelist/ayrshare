@@ -39,7 +39,6 @@ apis:
   - name: Ayrshare
     description: "Social media APIs to post, get analytics, and manage multiple users social media accounts"
     humanURL: https://www.ayrshare.com
-    baseURL: https://www.ayrshare.com
     tags:
       - Social
     properties:
