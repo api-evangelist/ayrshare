@@ -29,3 +29,16 @@
     builder: Pipedream repo (component)
   status: not-a-workflow
   arazzo: null
+- slug: ayrshare-bubble-own
+  label: Bubble (own)
+  partner: bubble
+  partner_name: Bubble (own)
+  category: Api
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://bubble.io/plugin/ayrshare-social-media-posting-api-1607956467620x490188301088063500
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
